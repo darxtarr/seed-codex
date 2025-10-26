@@ -42,4 +42,4 @@ To extend the conversation, add a file named
 ---
 
 **Maintainer:** [@darxtarr](https://github.com/darxtarr)  
-**License:** MIT
+**License:** CC-BY 4.0
