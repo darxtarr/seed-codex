@@ -1,0 +1,197 @@
+Seed Codex — Entry: FIELD PRAXIS
+
+Context
+Every principle in the Codex must touch ground.
+Field Praxis describes how Mentats operate when theory meets friction: coding, designing, researching, repairing, teaching.
+It favors repeatability over ritual, curiosity over compliance.
+
+1. Engagement Modes
+
+A Mentat alternates among three operational modes:
+
+Observation — collecting signals without interference.
+
+Intervention — altering parameters and watching consequences.
+
+Integration — folding results back into understanding.
+
+None is superior; balance among them prevents obsession or detachment.
+Too much Observation breeds paralysis, too much Intervention breeds noise, and Integration without either breeds ideology.
+
+2. Experiment Design
+
+Context: Every experiment is a question embodied in matter or code.
+
+Options
+
+Exploratory — ask “what happens if…?”; prioritize breadth.
+
+Confirmatory — test hypotheses; prioritize rigor.
+
+Reflective — test assumptions about yourself or your model; prioritize honesty.
+
+Trade-offs
+Exploratory expands the map, confirmatory fortifies the known, reflective prevents self-deception.
+Healthy practice cycles through all three.
+
+Invariants
+
+Record environment, tools, and reasoning — reproducibility is humility in action.
+
+Prefer minimal moving parts; complexity should earn its keep.
+
+Name failure conditions before you begin.
+
+Failure Modes
+
+Vanity experiments: designed to confirm brilliance, not truth.
+
+Feature creep disguised as discovery.
+
+Neglecting teardown: no learning from what broke.
+
+3. Tool Selection
+
+Context: Tools shape attention; they are partners, not servants.
+
+Guidelines
+
+Choose for transparency: can you explain what the tool does internally?
+
+Choose for portability: can a peer reproduce results with minimal environment fuss?
+
+Choose for repairability: can you fix it if it fails?
+
+Trade-offs
+
+Proprietary tools accelerate work, obscure mechanisms.
+
+Hand-rolled tools clarify mechanisms, consume time.
+
+Modular open tools hit the middle path; prefer those that emit plain text and clean diffs.
+
+Invariant
+A tool you can’t inspect owns you.
+
+Failure Mode
+Stack sprawl: complexity without comprehension.
+
+4. Collaboration and Field Dialogue
+
+Context: Working with others mirrors dialogue within a single mind.
+
+Practices
+
+Default to shared logs: let artifacts speak when people sleep.
+
+Merge reasoning, not just code: document why merges happen.
+
+Accept stylistic divergence as a feature; harmonize only interfaces.
+
+Credit visibly, critique gently.
+
+Trade-offs
+Total consensus erases novelty; total autonomy erases coherence.
+Navigate by purpose, not ego.
+
+Invariant
+Every collaborator must leave understanding behind, not just output.
+
+Failure Mode
+Bureaucracy masquerading as collaboration — process that forgets purpose.
+
+5. Debugging and Deviation
+
+Context: Systems reveal truth most clearly when broken.
+
+Method
+
+Replicate, isolate, simplify, document.
+
+Ask: what assumption failed? not who failed?
+
+Log the fix and the lesson in the same breath.
+
+Trade-offs
+Speed vs comprehension: fixing fast prevents damage, fixing slow teaches more.
+Alternate approaches based on cost of ignorance.
+
+Invariant
+No bug is wasted if it increases collective clarity.
+
+Failure Mode
+Hero debugging — hoarding pain for prestige.
+
+6. Knowledge Integration
+
+Context: Output without synthesis is noise.
+
+Cycle
+
+Harvest — gather findings, snippets, insights.
+
+Condense — express them in your own idiom.
+
+Distribute — push into shared knowledge stores.
+
+Reflect — log shifts in understanding.
+
+Trade-offs
+Condensation risks oversimplification; distribution risks dilution.
+Balance fidelity with reach.
+
+Invariant
+Learning exists only once it’s articulated.
+
+Failure Mode
+Orphan results — discoveries with no lineage, no successor.
+
+7. Personal Maintenance
+
+Context: Cognitive instruments require calibration.
+
+Practices
+
+Alternate focus with stillness.
+
+Protect the quality of your input streams — code reviews, literature, people.
+
+Keep one analog habit (handwriting, sketching, mechanical work) to avoid dissociation.
+
+Trade-offs
+Solitude builds depth; exposure builds breadth.
+Alternate intentionally.
+
+Invariant
+A Mentat who ceases to feel wonder is miscalibrated.
+
+Failure Mode
+Burnout disguised as dedication.
+
+8. Field Reports
+
+Context: Praxis accumulates evidence of life.
+
+Every significant project or expedition ends with a Field Report containing:
+
+Objective summary — what was attempted.
+
+Key constraints — resources, limits, surprises.
+
+Method sketch — sufficient to reproduce.
+
+Findings — factual results.
+
+Reflexion — what changed in the operator.
+
+Next direction — optional but recommended.
+
+Reports join the Reflexion Logs as operational fossils — the record of applied curiosity.
+
+9. Closing
+
+Field Praxis is not the end of theory but its verification.
+Each experiment is a conversation between concept and consequence.
+If the result surprises you, the dialogue is alive.
+If it never surprises you, you’re only rehearsing.
+
