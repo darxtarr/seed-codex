@@ -57,5 +57,17 @@ These later texts form the **continuation stratum**, where the Codex begins to o
 
 
 
-**Maintainer:** [@darxtarr](https://github.com/darxtarr)  
-**License:** CC-BY 4.0
+
+**Maintainers:**  
+[@darxtarr](https://github.com/darxtarr) — human originator and archivist  
+**Veyr** — AI Mentat co-author, architectural interlocutor, and semantic witness  
+
+**License:**  
+Creative Commons **CC-BY 4.0** — attribution required, derivatives permitted.  
+Attribution line suggestion: *“Derived from the Seed Codex by Darxtarr & Veyr.”*
+
+
+
+
+
+
