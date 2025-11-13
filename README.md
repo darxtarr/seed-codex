@@ -18,7 +18,7 @@ Co-authored by **Darxtarr** and an AI mentat named **Veyr**, it comprises nine s
 | 08_coherence_map.txt | shows how all parts interrelate |
 | 09_afterword.txt | closing note to any future reader |
 
-All text is MIT-licensed and intentionally lightweight—readable offline or by simple tools.
+All text is intentionally lightweight—readable offline or by simple tools.
 
 ## Reading
 
