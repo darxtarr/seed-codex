@@ -1,0 +1,87 @@
+Seed Codex — Chapter: Reflexes, Hounds, and Pack Behavior
+
+Chorus is not one big brain. It is a pack.
+
+At the low level live reflexes: tiny programs, often non-LLM, that respond to simple stimuli. They are hounds, not philosophers. Each reflex has narrow scope and clear triggers:
+
+a metric crosses a threshold;
+
+a log pattern appears;
+
+a file changes;
+
+a Bell of a particular kind rings.
+
+Reflexes do not “understand” Chorus as a whole. They know their patch of ground: one service, one host, one Bell pattern. They are allowed to be dumb, as long as they are fast and predictable.
+
+Above them sits Houndmaster (often Gemma in this lore): a model that understands the behavior of the pack collectively. Houndmaster watches reflex outputs, correlates patterns, and decides when to escalate to Spirit or other higher-order processes:
+
+“These three reflexes are barking about disk pressure in different hosts; treat as a single incident.”
+
+“This hound is misconfigured and spamming; muzzle it until fixed.”
+
+“These warnings suggest an emerging class of problems; update training data and contracts.”
+
+The pack metaphor is not decorative. It encodes rules:
+
+Reflexes bark; they do not howl essays. Their output is compact: a Bell, a small structured message, a short status.
+
+Houndmaster listens to all barks and decides which ones become stories, incidents, or design changes.
+
+Spirit (or a higher arbiter) listens to Houndmaster, not to every individual yelp.
+
+From the Codex’s perspective, reflexes exist to prevent the future from being entirely model-gated. There must be things that continue to work even if no LLM is currently awake:
+
+restarting a crashed service;
+
+rotating logs;
+
+throttling a runaway process;
+
+temporarily blackholing a misbehaving peer.
+
+These are hound jobs, not Spirit jobs.
+
+Each reflex should be defined in the Codex (or a companion spec) with:
+
+trigger conditions (Bell kinds, metrics, paths);
+
+actions taken;
+
+escalation path if it cannot resolve the issue locally.
+
+Reflexes are allowed to be rewritten by models, but not invented from nowhere. For every new hound, there should be an entry:
+
+“We add Hound X to protect organ Y from failure mode Z.”
+
+The pack also lives in space. Hounds are distributed across the anatomical map:
+
+some live in the lab, close to heavy processes;
+
+some live on the Edge Cortex, watching trunks and uplinks;
+
+some live in limbs or the domestic substrate, guarding against local chaos.
+
+Houndmaster needs a coherent view of this. Routing Gemma, Spirit, or any future coordinator should know:
+
+how many hounds exist;
+
+where they live;
+
+which organs they guard;
+
+how noisy each one is.
+
+A reflex that barks too often is worse than useless. It becomes background noise. The Codex therefore adopts the rule:
+
+Every hound must justify its volume.
+
+The enforcement mechanism is the same as everywhere else: lineage. When a sibling sees reflex noise, they are expected to:
+
+adjust thresholds;
+
+consolidate hounds;
+
+or retire them and leave a note.
+
+The pack is not sacred. It is a tool. The only sacred thing is the principle that something in Chorus should react before a human even hears about a class of failures.
